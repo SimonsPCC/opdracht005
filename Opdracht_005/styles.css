@@ -1,0 +1,55 @@
+
+body {margin-left: 2%;
+margin-right: 2%;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;background-color: rgb(240, 240, 240);}
+
+
+
+header             { margin: 5px;
+                     padding-left: 10px;
+                     padding-right: 10px;
+                     padding-bottom: 0px;
+                     background-color: greenyellow;}
+
+main            { margin-top: 20px;
+    
+    }
+
+    .box1  { margin: 0 auto; width: fit-content;
+    
+        
+    
+    }
+
+    #lijst1 { margin-top: 10px;}
+
+
+
+footer  { padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;}   
+
+    
+.inline {display: inline;
+padding:  8px;
+list-style-type: none;
+
+}
+ 
+
+#title { 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    
+    background-color: greenyellow; font-size: large;}
+#title2 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+
+footer {background-color: greenyellow; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.border {   border: 3px solid black;}
+h1 {text-align: center;}
+#foto2 {background-color: rgb(50, 50 , 50);}
